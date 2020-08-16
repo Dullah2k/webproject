@@ -1,0 +1,40 @@
+form {
+	width: 30%
+	/*box-sizing: border-box;*/
+	padding: 20px;
+	text-align: center;
+	/*border: solid 1px black;*/
+	display: block;
+	margin: 60px auto;
+	margin-left: 600px;
+}
+
+.btn{
+	margin-top: 20px;
+}
+
+.container{
+		width: 30%
+	/*box-sizing: border-box;*/
+	padding: 20px;
+	text-align: center;
+	/*border: solid 1px black;*/
+	display: block;
+	margin: 60px auto;
+	margin-left: 400px;
+}
+
+.signin{
+	background-image: url(picha/qb.jpg);
+	background: #fff;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px #000;
+}
+
+.reg{
+	background: #fff;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px #000;
+}
